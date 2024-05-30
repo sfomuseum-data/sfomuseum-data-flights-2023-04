@@ -48,6 +48,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1847512531,
         "flight_id": 1847512531
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1680798485,
+    "wof:lastmodified": 1717043758,
     "wof:name": "WN2450 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

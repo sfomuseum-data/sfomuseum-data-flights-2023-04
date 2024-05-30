@@ -48,6 +48,7 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
+        "custom_id": 1847523255,
         "flight_id": 1847523255
       }
     ],
@@ -58,11 +59,13 @@
       1159285413,
       1377564285
     ],
-    "wof:lastmodified": 1680884984,
+    "wof:lastmodified": 1717043759,
     "wof:name": "UA8245 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

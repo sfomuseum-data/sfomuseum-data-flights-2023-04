@@ -48,6 +48,7 @@
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
+        "custom_id": 1863436971,
         "flight_id": 1863436971
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1682699532,
+    "wof:lastmodified": 1717043757,
     "wof:name": "UA8145 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

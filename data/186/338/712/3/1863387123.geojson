@@ -48,6 +48,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1863387123,
         "flight_id": 1863387123
       }
     ],
@@ -58,11 +59,13 @@
       1377564285,
       102527209
     ],
-    "wof:lastmodified": 1682181072,
+    "wof:lastmodified": 1717043752,
     "wof:name": "UA8199 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

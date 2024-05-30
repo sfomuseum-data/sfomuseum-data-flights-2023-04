@@ -48,6 +48,7 @@
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
     "wof:hierarchy": [
       {
+        "custom_id": 1847580535,
         "flight_id": 1847580535
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1681403421,
+    "wof:lastmodified": 1717043760,
     "wof:name": "UA2507 (SFO-BUR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

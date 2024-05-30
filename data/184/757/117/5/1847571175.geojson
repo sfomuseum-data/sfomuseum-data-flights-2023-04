@@ -45,6 +45,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1847571175,
         "flight_id": 1847571175
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283539
     ],
-    "wof:lastmodified": 1681316899,
+    "wof:lastmodified": 1717043761,
     "wof:name": "VS2272 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

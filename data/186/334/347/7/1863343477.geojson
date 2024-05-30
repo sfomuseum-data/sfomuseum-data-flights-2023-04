@@ -48,6 +48,7 @@
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
     "wof:hierarchy": [
       {
+        "custom_id": 1863343477,
         "flight_id": 1863343477
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159284153
     ],
-    "wof:lastmodified": 1681748972,
+    "wof:lastmodified": 1717043749,
     "wof:name": "CI5265 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

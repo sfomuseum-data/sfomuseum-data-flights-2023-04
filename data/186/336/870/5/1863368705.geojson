@@ -48,6 +48,7 @@
     "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy": [
       {
+        "custom_id": 1863368705,
         "flight_id": 1863368705
       }
     ],
@@ -58,11 +59,13 @@
       1159284261,
       1159289939
     ],
-    "wof:lastmodified": 1682008285,
+    "wof:lastmodified": 1717043752,
     "wof:name": "DL8847 (SFO-YEG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

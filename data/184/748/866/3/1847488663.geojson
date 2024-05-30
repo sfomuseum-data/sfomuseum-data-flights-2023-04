@@ -40,6 +40,7 @@
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
     "wof:hierarchy": [
       {
+        "custom_id": 1847488663,
         "flight_id": 1847488663
       }
     ],
@@ -50,11 +51,13 @@
       1159284157,
       -1
     ],
-    "wof:lastmodified": 1680624458,
+    "wof:lastmodified": 1717043754,
     "wof:name": "MU7589 (PVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

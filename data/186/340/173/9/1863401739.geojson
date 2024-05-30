@@ -48,6 +48,7 @@
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
     "wof:hierarchy": [
       {
+        "custom_id": 1863401739,
         "flight_id": 1863401739
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159284127
     ],
-    "wof:lastmodified": 1682353813,
+    "wof:lastmodified": 1717043762,
     "wof:name": "CX873 (SFO-HKG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "9156ee38a86542341666d641670fb814",
     "wof:hierarchy": [
       {
+        "custom_id": 1863322077,
         "flight_id": 1863322077
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1681574482,
+    "wof:lastmodified": 1717043763,
     "wof:name": "AA2929 (MRY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

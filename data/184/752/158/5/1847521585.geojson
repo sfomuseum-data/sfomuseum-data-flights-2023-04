@@ -48,6 +48,7 @@
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
     "wof:hierarchy": [
       {
+        "custom_id": 1847521585,
         "flight_id": 1847521585
       }
     ],
@@ -58,11 +59,13 @@
       1159289939,
       102530559
     ],
-    "wof:lastmodified": 1680884976,
+    "wof:lastmodified": 1717043758,
     "wof:name": "DL8846 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

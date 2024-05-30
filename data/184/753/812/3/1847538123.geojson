@@ -53,6 +53,7 @@
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
     "wof:hierarchy": [
       {
+        "custom_id": 1847538123,
         "flight_id": 1847538123
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       102527529
     ],
-    "wof:lastmodified": 1681057619,
+    "wof:lastmodified": 1717043763,
     "wof:name": "UA1758 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

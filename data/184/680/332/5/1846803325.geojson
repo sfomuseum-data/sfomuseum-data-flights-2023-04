@@ -45,6 +45,7 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
+        "custom_id": 1846803325,
         "flight_id": 1846803325
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285641
     ],
-    "wof:lastmodified": 1680538055,
+    "wof:lastmodified": 1717043754,
     "wof:name": "DL365 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

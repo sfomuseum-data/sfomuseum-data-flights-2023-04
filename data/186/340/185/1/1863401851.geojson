@@ -48,6 +48,7 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
+        "custom_id": 1863401851,
         "flight_id": 1863401851
       }
     ],
@@ -58,11 +59,13 @@
       102534365,
       102527513
     ],
-    "wof:lastmodified": 1682353813,
+    "wof:lastmodified": 1717043764,
     "wof:name": "DL8882 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

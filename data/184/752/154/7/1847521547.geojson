@@ -40,6 +40,7 @@
     "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
     "wof:hierarchy": [
       {
+        "custom_id": 1847521547,
         "flight_id": 1847521547
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1680884495,
+    "wof:lastmodified": 1717043757,
     "wof:name": "DL420 (SFO-BFL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

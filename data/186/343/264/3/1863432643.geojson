@@ -48,6 +48,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1863432643,
         "flight_id": 1863432643
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102526751
     ],
-    "wof:lastmodified": 1682699518,
+    "wof:lastmodified": 1717043753,
     "wof:name": "WN814 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []

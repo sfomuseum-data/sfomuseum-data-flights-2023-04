@@ -48,6 +48,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1863399183,
         "flight_id": 1863399183
       }
     ],
@@ -58,11 +59,13 @@
       102527209,
       1159285591
     ],
-    "wof:lastmodified": 1682353817,
+    "wof:lastmodified": 1717043751,
     "wof:name": "WN2577 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-04",
     "wof:superseded_by": [],
     "wof:supersedes": []
